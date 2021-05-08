@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Thanks
 
-Template Name: Mamba
-Template URL: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: INNOVANT
+Author: Harsh Jha
