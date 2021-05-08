@@ -3,10 +3,30 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #444;
 }
+.t1{
+  text-align: left;
+  line-height: 2rem;
+    font-style: italic;
+    color: #666;
+}
 
-.sp{
-  
-  width:200px;
+#sp1{
+  width:150px;
+  height: 100px;
+}
+#sp2{
+
+  width:150px;
+  height: 100px;
+}
+#sp3{
+
+  width:150px;
+  height: 100px;
+}
+#sp4{
+
+  width:150px;
   height: 100px;
 }
 
