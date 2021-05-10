@@ -6,8 +6,8 @@ body {
 .t1{
   text-align: left;
   line-height: 2rem;
-    font-style: italic;
-    color: #666;
+    font-style: Sans-serif;
+    color: rgb(0, 0, 0);
 }
 
 #sp1{
@@ -16,17 +16,17 @@ body {
 }
 #sp2{
 
-  width:150px;
-  height: 100px;
+  width:231px;
+  height: 173px;
 }
 #sp3{
 
-  width:150px;
+  width:255px;
   height: 100px;
 }
 #sp4{
 
-  width:150px;
+  width:293px;
   height: 100px;
 }
 
@@ -196,7 +196,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   padding: 10px 0 10px 30px;
   font-family: "Open Sans", sans-serif;
   font-size: 20px;
-  color: #5c768d;
+  color: #000000;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -539,7 +539,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f5f9fc;
+  background-color: #ffffff;
 }
 
 .section-title {
@@ -552,7 +552,7 @@ section {
   font-weight: 600;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #5c768d;
+  color: #000000;
 }
 
 .section-title p {
