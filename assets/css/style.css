@@ -434,7 +434,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #hero h2 {
   color: #fff;
   margin-bottom: 30px;
-  font-size: 48px;
+  font-size: 96px;
   font-weight: 900;
 }
 
@@ -1358,8 +1358,8 @@ font-size: 20px;
 }
 
 #footer .footer-top {
-  background: #ffffff;
-  border-top: px solid #768fa6;
+  background: #67839c;
+  border-top: 1px solid #768fa6;
   border-bottom: 1px solid #67839c;
   padding: 60px 0 30px 0;
 }
@@ -1484,17 +1484,12 @@ font-size: 20px;
   background: #5295ce;
 }
 
-#footer .copyright {
+#footer {
   text-align: center;
-  padding-top: 30px;
+  padding-top:10px;
 }
 
-#footer .credits {
-  padding-top: 10px;
-  text-align: center;
-  font-size: 13px;
-  color: #fff;
-}
+
 
 #footer .credits a {
   color: #9eccf4;
